@@ -1,21 +1,24 @@
 <table style="border: none;">
 <tr style="border: none;">
 <td style="border: none; vertical-align: top; padding-right: 2em;">
-  <img src="assets/profile.jpg" alt="Maryam Fattahi Vanani" style="width: 600px; border-radius: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="assets/profile.jpg" alt="Maryam Fattahi Vanani" style="width: 250px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </td>
 <td style="border: none; vertical-align: top;">
   <h3>About Me</h3>
   <p>Master of Computer Engineering graduate with published research in scalable blockchain systems and network security. Expertise in decentralized application architecture, smart contracts, and resource-efficient protocols for wireless networks. Combines hands-on research with university-level teaching experience in Network Security and a good record of academic achievements.</p>
-  <p>
-    <a href="assets/cv.pdf">[Download my CV]</a> | 
-    <a href="https://www.linkedin.com/in/maryam-fattahi-vanani/">[LinkedIn]</a> | 
-    <a href="https://t.me/your_telegram_username">[Telegram]</a>
-  </p>
+  
+  <p style="font-size: 1.5em;">
+    <a href="assets/cv.pdf" title="Download my CV"><i class="fas fa-file-pdf"></i></a> &nbsp;
+    <a href="https://www.linkedin.com/in/maryam-fattahi-vanani/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> &nbsp;
+    <a href="https://t.me/your_telegram_username" title="Telegram"><i class="fab fa-telegram"></i></a> &nbsp;
+    </p>
+
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## Publications
 
