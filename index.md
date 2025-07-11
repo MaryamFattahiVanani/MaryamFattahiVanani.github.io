@@ -26,7 +26,8 @@
 *Status: Published* <br>
 <a href="https://ieeexplore.ieee.org/document/10874538">Link to Paper</a>
 
-**SRCM*: Another Efficient Method for Energy Consumption Reduction in Wireless Body Area Networks based on Data Similarity** <br>
+**SRCM star: Another Efficient Method for Energy Consumption Reduction in Wireless Body Area Networks based on Data Similarity**
+<br>
 *Status: Under Review* <br>
 <a href="https://drive.google.com/file/d/1FU8a-mMhDuE62VjlYCZL1irYnKXvWnu1/view?usp=sharing">Link to PDF</a>
 
