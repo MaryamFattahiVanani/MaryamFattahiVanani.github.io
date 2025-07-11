@@ -3,13 +3,6 @@
 <td style="border: none; vertical-align: top; padding-right: 2em;">
 <div class="profile-circle"></div>
 </td>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
   
 <td style="border: none; vertical-align: top;">
   
