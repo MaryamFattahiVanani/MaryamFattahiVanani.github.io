@@ -1,7 +1,7 @@
 <table style="border: none;">
 <tr style="border: none;">
 <td style="border: none; vertical-align: top; padding-right: 2em;">
-  <img src="assets/profile.jpg" alt="Maryam Fattahi Vanani" width="200" style="border-radius: 50%;">
+  <img src="assets/profile.jpg" alt="Maryam Fattahi Vanani" width="300" height="300" style="border-radius: 50%;">
 </td>
 <td style="border: none; vertical-align: top;">
   <h3>About Me</h3>
@@ -21,11 +21,11 @@
 
 1.  **A Scalable Blockchain-Based Educational Network for Data Storage and Assessments** <br>
     *Status: Published* <br>
-    [<a href="https://ieeexplore.ieee.org/document/10874538">Link to Paper</a>]
+    <a href="https://ieeexplore.ieee.org/document/10874538">Link to Paper</a>
 
 2.  **SRCM*: Another Efficient Method for Energy Consumption Reduction in Wireless Body Area Networks based on Data Similarity** <br>
     *Status: Under Review* <br>
-    [<a href="https://drive.google.com/file/d/1FU8a-mMhDuE62VjlYCZL1irYnKXvWnu1/view?usp=sharing">Link to PDF</a>]
+    <a href="https://drive.google.com/file/d/1FU8a-mMhDuE62VjlYCZL1irYnKXvWnu1/view?usp=sharing">Link to PDF</a>
 
 ---
 
