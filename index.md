@@ -81,10 +81,15 @@ Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Presen
 ## Research Interests
 
 Blockchain & Smart Contracts
+<br>
 Network Security
+<br>
 Cyber Security
+<br>
 Distributed Systems Security
+<br>
 Data Anonymization & Privacy
+<br>
 Cryptography
 
 ---
