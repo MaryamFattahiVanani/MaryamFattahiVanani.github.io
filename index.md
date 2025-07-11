@@ -5,7 +5,7 @@
 </td>
 <td style="border: none; vertical-align: top;">
   <h3>About Me</h3>
-  <p>I am a Computer Engineering professional with a Master's degree and a strong research background in blockchain, network security, and scalable decentralized applications. My work focuses on building and securing the next generation of distributed systems. I am passionate about solving complex problems at the intersection of technology, security, and society.</p>
+  <p>Master of Computer Engineering graduate with published research in scalable blockchain systems and network security. Expertise in decentralized application architecture, smart contracts, and resource-efficient protocols for wireless networks. Combines hands-on research with university-level teaching experience in Network Security and a good record of academic achievements.</p>
   <p>
     <a href="assets/cv.pdf">[Download my CV]</a> | 
     <a href="https://www.linkedin.com/in/maryam-fattahi-vanani/">[LinkedIn]</a> | 
@@ -21,20 +21,21 @@
 
 1.  **A Scalable Blockchain-Based Educational Network for Data Storage and Assessments** <br>
     *Status: Published* <br>
-    [<a href="http://your-link-to-paper-1.com">Link to Paper</a>]
+    [<a href="https://ieeexplore.ieee.org/document/10874538">Link to Paper</a>]
 
 2.  **SRCM*: Another Efficient Method for Energy Consumption Reduction in Wireless Body Area Networks based on Data Similarity** <br>
     *Status: Under Review* <br>
-    [<a href="http://your-link-to-paper-2-pdf.com">Link to PDF</a>]
+    [<a href="https://drive.google.com/file/d/1FU8a-mMhDuE62VjlYCZL1irYnKXvWnu1/view?usp=sharing">Link to PDF</a>]
 
 ---
 
 ## Research Interests
 
-* Blockchain Scaling & Performance
+* Blockchain & Smart Contracts
 * Network Security
+* Cyber Security
 * Distributed Systems Security
 * Data Anonymization & Privacy
-* Socio-Technical System Design
+* Cryptography
 
 ---
