@@ -1,11 +1,4 @@
-body {
-  font-size: 18px !important;   /* Increases the base font size from 16px to 18px */
-  line-height: 1.6 !important;  /* Increases the spacing between lines of text for readability */
-}
 
-main {
-  max-width: 900px !important; /* Makes the main content area wider (default is around 750px) */
-}
 
 
 
