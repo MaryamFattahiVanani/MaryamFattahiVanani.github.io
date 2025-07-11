@@ -38,6 +38,7 @@ Master of Computer Engineering-software | Shahid Rajaee University, Tehran, Iran
 •	GPA: 17.32/20 (Equivalent to 3.6/4.0)
 •	Thesis: A Scalable Blockchain-Based Network for Educational Data Storage and Assessment
 •	Research Areas: Blockchain, Smart Contracts, Decentralized Applications, Cryptography, Scalability
+<br>
 Bachelor of Computer Engineering-software | Shahid Rajaee University, Tehran, Iran | 2015 – 2019
 •	GPA: 15.13/20 (GPA in final two years: 3.2/4.0)
 
@@ -45,6 +46,7 @@ Bachelor of Computer Engineering-software | Shahid Rajaee University, Tehran, Ir
 University Lecturer | National University of Skills (NUS), Shahrekord, Iran | Sep 2024 – Present
 •	Instructs undergraduate students in computer science courses, including Network Security and Algorithm Design concepts.
 •	Develops course materials and mentors students on technical projects, fostering skills in teamwork and collaborative problem-solving.
+<br>
 Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Present
 •	Designed and delivered a full curriculum for web development, teaching students proficiency in HTML, CSS, JavaScript, and PHP.
 •	Taught practical skills in key software, including Adobe Photoshop and Microsoft Office Suite.
@@ -52,9 +54,13 @@ Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Presen
 
 <h2> Skills </h2>
 •	Proficient: Python (Data Analysis, Scripting), JavaScript (Node.js), Solidity (Smart Contracts), SQL
+<br>
 •	Experienced: Go (Golang), C/C++, PHP
+<br>
 •	Familiar: React, C#, HTML/CSS
+<br>
 •	Soft Skills: Teamwork, Problem-Solving, Research, Communication, and Presentation Skills
+<br>
 •	Languages: Persian (Native), English (Proficient, IELTS 7.0)
 
 
