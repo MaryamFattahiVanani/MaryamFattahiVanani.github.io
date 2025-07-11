@@ -76,6 +76,7 @@ Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Presen
 <br>
 •	Languages: Persian (Native), English (Proficient, IELTS 7.0)
 
+--- 
 
 ## Research Interests
 
