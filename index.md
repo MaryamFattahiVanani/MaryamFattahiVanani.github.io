@@ -46,6 +46,9 @@ Bachelor of Computer Engineering-software | Shahid Rajaee University, Tehran, Ir
 <br>
 •	GPA: 15.13/20 (GPA in final two years: 3.2/4.0)
 
+---
+
+
 <h2> Professional Experience </h2>
 University Lecturer | National University of Skills (NUS), Shahrekord, Iran | Sep 2024 – Present
 <br>
@@ -58,6 +61,8 @@ Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Presen
 •	Designed and delivered a full curriculum for web development, teaching students proficiency in HTML, CSS, JavaScript, and PHP.
 <br>
 •	Taught practical skills in key software, including Adobe Photoshop and Microsoft Office Suite.
+
+---
 
 
 <h2> Skills </h2>
