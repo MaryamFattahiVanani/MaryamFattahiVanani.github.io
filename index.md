@@ -22,33 +22,41 @@
 
 ## Publications
 
-1.  **A Scalable Blockchain-Based Educational Network for Data Storage and Assessments** <br>
-    *Status: Published* <br>
-    <a href="https://ieeexplore.ieee.org/document/10874538">Link to Paper</a>
+**A Scalable Blockchain-Based Educational Network for Data Storage and Assessments** <br>
+*Status: Published* <br>
+<a href="https://ieeexplore.ieee.org/document/10874538">Link to Paper</a>
 
-2.  **SRCM*: Another Efficient Method for Energy Consumption Reduction in Wireless Body Area Networks based on Data Similarity** <br>
-    *Status: Under Review* <br>
-    <a href="https://drive.google.com/file/d/1FU8a-mMhDuE62VjlYCZL1irYnKXvWnu1/view?usp=sharing">Link to PDF</a>
+**SRCM*: Another Efficient Method for Energy Consumption Reduction in Wireless Body Area Networks based on Data Similarity** <br>
+*Status: Under Review* <br>
+<a href="https://drive.google.com/file/d/1FU8a-mMhDuE62VjlYCZL1irYnKXvWnu1/view?usp=sharing">Link to PDF</a>
 
 ---
 
 
 <h2> Education </h2>
 Master of Computer Engineering-software | Shahid Rajaee University, Tehran, Iran | 2021 – 2023
+<br>
 •	GPA: 17.32/20 (Equivalent to 3.6/4.0)
+<br>
 •	Thesis: A Scalable Blockchain-Based Network for Educational Data Storage and Assessment
+<br>
 •	Research Areas: Blockchain, Smart Contracts, Decentralized Applications, Cryptography, Scalability
 <br>
 Bachelor of Computer Engineering-software | Shahid Rajaee University, Tehran, Iran | 2015 – 2019
+<br>
 •	GPA: 15.13/20 (GPA in final two years: 3.2/4.0)
 
 <h2> Professional Experience </h2>
 University Lecturer | National University of Skills (NUS), Shahrekord, Iran | Sep 2024 – Present
+<br>
 •	Instructs undergraduate students in computer science courses, including Network Security and Algorithm Design concepts.
+<br>
 •	Develops course materials and mentors students on technical projects, fostering skills in teamwork and collaborative problem-solving.
 <br>
 Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Present
+<br>
 •	Designed and delivered a full curriculum for web development, teaching students proficiency in HTML, CSS, JavaScript, and PHP.
+<br>
 •	Taught practical skills in key software, including Adobe Photoshop and Microsoft Office Suite.
 
 
