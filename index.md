@@ -1,7 +1,7 @@
 <table style="border: none;">
 <tr style="border: none;">
 <td style="border: none; vertical-align: top; padding-right: 2em;">
-  <img src="assets/profile.jpg" alt="Maryam Fattahi Vanani" style="width: 250px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="assets/profile.jpg" alt="Maryam Fattahi Vanani" style="width: 600px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </td>
 <td style="border: none; vertical-align: top;">
   <h3>About Me</h3>
