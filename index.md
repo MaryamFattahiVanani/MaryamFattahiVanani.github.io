@@ -3,7 +3,16 @@
 <td style="border: none; vertical-align: top; padding-right: 2em;">
 <div class="profile-circle"></div>
 </td>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
 <td style="border: none; vertical-align: top;">
+  
   <h3>About Me</h3>
   <p>Master of Computer Engineering graduate with published research in scalable blockchain systems and network security. Expertise in decentralized application architecture, smart contracts, and resource-efficient protocols for wireless networks. Combines hands-on research with university-level teaching experience in Network Security and a good record of academic achievements.</p>
   
