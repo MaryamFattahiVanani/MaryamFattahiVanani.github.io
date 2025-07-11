@@ -1,6 +1,15 @@
-.profile-img {
-  width: 300px !important;    /* Sets a fixed width */
-  height: auto !important;     /* Height will adjust automatically to show the full image */
-  border-radius: 50%;      /* This makes the image circular */
-  border: 4px solid #444;  /* This is the "bold" dark gray border */
+.profile-circle {
+  /* Shape and Size */
+  width: 280px;
+  height: 280px;
+  border-radius: 50%; /* This makes the frame a perfect circle */
+
+  /* Background Image (Your Photo) */
+  background-image: url('/assets/profile.jpg'); /* Sets your photo as the background */
+  background-position: center; /* Centers your face in the circle */
+  background-size: cover;      /* Scales the image to cover the circle without distortion */
+
+  /* Border Style */
+  border: 5px solid #333; /* A "bold" dark border */
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2); /* A subtle shadow for depth */
 }
