@@ -10,7 +10,7 @@
   <p style="font-size: 1.5em;">
     <a href="assets/cv.pdf" title="Download my CV"><i class="fas fa-file-pdf"></i></a> &nbsp;
     <a href="https://www.linkedin.com/in/maryam-fattahi-vanani/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> &nbsp;
-    <a href="https://t.me/your_telegram_username" title="Telegram"><i class="fab fa-telegram"></i></a> &nbsp;
+    <a href="https://t.me/maryam_fthv" title="Telegram"><i class="fab fa-telegram"></i></a> &nbsp;
     </p>
 
 </td>
