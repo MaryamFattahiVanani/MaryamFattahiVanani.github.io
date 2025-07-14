@@ -58,15 +58,15 @@ Master of Computer Engineering graduate with published research in scalable bloc
 <h2> Professional Experience </h2>
 <b>University Lecturer</b> | National University of Skills (NUS), Shahrekord, Iran | Sep 2024 – Present
 <br>
-•	Instructs undergraduate students in computer science courses, including Network Security and Algorithm Design concepts.
+•	Instructing undergraduate students in computer science courses, including Network Security and Algorithm Design concepts.
 <br>
-•	Develops course materials and mentors students on technical projects, fostering skills in teamwork and collaborative problem-solving.
+•	Developing course materials and mentoring students on technical projects, fostering skills in teamwork and collaborative problem-solving.
 <br>
 <b>Computer Teacher</b> | Technical High School, Shahrekord, Iran | Feb 2019 – Present
 <br>
-•	Designed and delivered a full curriculum for web development, teaching students proficiency in HTML, CSS, JavaScript, and PHP.
+•	Designing and delivering a full curriculum for web development, teaching students proficiency in HTML, CSS, JavaScript, and PHP.
 <br>
-•	Taught practical skills in key software, including Adobe Photoshop and Microsoft Office Suite.
+•	Teaching practical skills in key software, including Adobe Photoshop and Microsoft Office Suite.
 
 ---
 
