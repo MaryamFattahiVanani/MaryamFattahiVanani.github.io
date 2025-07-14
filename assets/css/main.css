@@ -9,7 +9,7 @@
   border-radius: 50%; /* This makes the frame a perfect circle */
 
   /* Background Image (Your Photo) */
-  background-image: url('/assets/profile.jpg'); /* Sets your photo as the background */
+  background-image: url('/assets/pro.jpg'); /* Sets your photo as the background */
   background-position: center; /* Centers your face in the circle */
   background-size: cover;      /* Scales the image to cover the circle without distortion */
 
