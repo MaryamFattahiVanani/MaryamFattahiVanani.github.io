@@ -40,7 +40,7 @@ Master of Computer Engineering graduate with published research in scalable bloc
 
 
 <h2> Education </h2>
-Master of Computer Engineering-software | Shahid Rajaee University, Tehran, Iran | 2021 – 2023
+<b>Master of Computer Engineering-software</b> | Shahid Rajaee University, Tehran, Iran | 2021 – 2023
 <br>
 •	GPA: 17.32/20 (Equivalent to 3.6/4.0)
 <br>
@@ -48,7 +48,7 @@ Master of Computer Engineering-software | Shahid Rajaee University, Tehran, Iran
 <br>
 •	Research Areas: Blockchain, Smart Contracts, Decentralized Applications, Cryptography, Scalability
 <br>
-Bachelor of Computer Engineering-software | Shahid Rajaee University, Tehran, Iran | 2015 – 2019
+<b>Bachelor of Computer Engineering-software</b> | Shahid Rajaee University, Tehran, Iran | 2015 – 2019
 <br>
 •	GPA: 15.13/20 (GPA in final two years: 3.2/4.0)
 
@@ -56,13 +56,13 @@ Bachelor of Computer Engineering-software | Shahid Rajaee University, Tehran, Ir
 
 
 <h2> Professional Experience </h2>
-University Lecturer | National University of Skills (NUS), Shahrekord, Iran | Sep 2024 – Present
+<b>University Lecturer</b> | National University of Skills (NUS), Shahrekord, Iran | Sep 2024 – Present
 <br>
 •	Instructs undergraduate students in computer science courses, including Network Security and Algorithm Design concepts.
 <br>
 •	Develops course materials and mentors students on technical projects, fostering skills in teamwork and collaborative problem-solving.
 <br>
-Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Present
+<b>Computer Teacher</b> | Technical High School, Shahrekord, Iran | Feb 2019 – Present
 <br>
 •	Designed and delivered a full curriculum for web development, teaching students proficiency in HTML, CSS, JavaScript, and PHP.
 <br>
@@ -72,15 +72,15 @@ Computer Teacher | Technical High School, Shahrekord, Iran | Feb 2019 – Presen
 
 
 <h2> Skills </h2>
-•	Proficient: Python (Data Analysis, Scripting), JavaScript (Node.js), Solidity (Smart Contracts), SQL
+•	<b>Proficient</b>: Python (Data Analysis, Scripting), JavaScript (Node.js), Solidity (Smart Contracts), HTML/CSS
 <br>
-•	Experienced: Go (Golang), C/C++, PHP
+•	<b>Experienced</b>: Go (Golang), C/C++, PHP, SQL
 <br>
-•	Familiar: React, C#, HTML/CSS
+•	<b>Familiar</b>: React, C#, 
 <br>
-•	Soft Skills: Teamwork, Problem-Solving, Research, Communication, and Presentation Skills
+•	<b>Soft Skills</b>: Teamwork, Problem-Solving, Research, Communication, and Presentation Skills
 <br>
-•	Languages: Persian (Native), English (Proficient, IELTS 7.0)
+•	<b>Languages</b>: Persian (Native), English (Proficient, IELTS 7.0)
 
 --- 
 
