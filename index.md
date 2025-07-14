@@ -72,11 +72,11 @@ Master of Computer Engineering graduate with published research in scalable bloc
 
 
 <h2> Skills </h2>
-•	<b>Proficient</b>: Python (Data Analysis, Scripting), JavaScript (Node.js), Solidity (Smart Contracts), HTML/CSS
+•	<b>Proficient</b>: Python (Data Analysis, Scripting), JavaScript (Node.js), PHP, HTML/CSS
 <br>
-•	<b>Experienced</b>: Go (Golang), C/C++, PHP, SQL
+•	<b>Experienced</b>: Go (Golang), C/C++, Solidity (Smart Contracts), SQL
 <br>
-•	<b>Familiar</b>: React, C#, 
+•	<b>Familiar</b>: React, C#
 <br>
 •	<b>Soft Skills</b>: Teamwork, Problem-Solving, Research, Communication, and Presentation Skills
 <br>
@@ -90,12 +90,14 @@ Blockchain & Smart Contracts
 <br>
 Network Security
 <br>
-Cyber Security
-<br>
-Distributed Systems Security
-<br>
-Data Anonymization & Privacy
+Distributed Systems 
 <br>
 Cryptography
+<br>
+Applied AI in blockchain 
+<br>
+Internet of Things (IoT) 
+<br>
+Wireless Communications
 
 ---
