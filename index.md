@@ -6,8 +6,7 @@
   
 <td style="border: none; vertical-align: top;">
   
-  <h3>About Me</h3>
-  <p>Master of Computer Engineering graduate with published research in scalable blockchain systems and network security. Expertise in decentralized application architecture, smart contracts, and resource-efficient protocols for wireless networks. Combines hands-on research with university-level teaching experience in Network Security and a good record of academic achievements.</p>
+
   
   <p style="font-size: 1.5em;">
     <a href="assets/cv.pdf" title="Download my CV"><i class="fas fa-file-pdf"></i></a> &nbsp;
@@ -21,6 +20,10 @@
 
 ---
 
+  <h2>About Me</h2>
+Master of Computer Engineering graduate with published research in scalable blockchain systems and network security. Expertise in decentralized application architecture, smart contracts, and resource-efficient protocols for wireless networks. Combines hands-on research with university-level teaching experience in Network Security and a good record of academic achievements.
+
+---
 
 ## Publications
 
