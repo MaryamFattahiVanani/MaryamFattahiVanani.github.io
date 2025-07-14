@@ -4,8 +4,8 @@
 
 .profile-circle {
   /* Shape and Size */
-  width: 280px;
-  height: 280px;
+  width: 320px;
+  height: 320px;
   border-radius: 50%; /* This makes the frame a perfect circle */
 
   /* Background Image (Your Photo) */
