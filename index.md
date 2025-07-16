@@ -84,20 +84,4 @@ Master of Computer Engineering graduate with published research in scalable bloc
 
 --- 
 
-## Research Interests
 
-Blockchain & Smart Contracts
-<br>
-Network Security
-<br>
-Distributed Systems 
-<br>
-Cryptography
-<br>
-Applied AI in blockchain 
-<br>
-Internet of Things (IoT) 
-<br>
-Wireless Communications
-
----
