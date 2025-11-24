@@ -50,19 +50,19 @@ Master of Computer Engineering graduate with published research in scalable bloc
 <br>
 <b>Bachelor of Computer Engineering-software</b> | Shahid Rajaee University, Tehran, Iran | 2015 – 2019
 <br>
-•	GPA: 15.13/20 (GPA in final two years: 3.2/4.0)
+
 
 ---
 
 
 <h2> Professional Experience </h2>
-<b>University Lecturer</b> | National University of Skills (NUS), Shahrekord, Iran | Sep 2024 – Present
+<b>University Lecturer</b> | National University of Skills (NUS), Iran | Sep 2024 – Present
 <br>
 •	Instructing undergraduate students in computer science courses, including Network Security and Algorithm Design concepts.
 <br>
 •	Developing course materials and mentoring students on technical projects, fostering skills in teamwork and collaborative problem-solving.
 <br>
-<b>Computer Teacher</b> | Technical High School, Shahrekord, Iran | Feb 2019 – Present
+<b>Computer Teacher</b> | Technical High School, Iran | Feb 2019 – Present
 <br>
 •	Designing and delivering a full curriculum for web development, teaching students proficiency in HTML, CSS, JavaScript, and PHP.
 <br>
